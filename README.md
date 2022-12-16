@@ -1,8 +1,8 @@
-# Create React App
+### Create React App
 
 creating a react js application using following command : npx create-react-app priority-airlines
 
-## install all the dependencies and node modules
+### install all the dependencies and node modules
 
 for installing all the dependencies follow the command : npm i
 
