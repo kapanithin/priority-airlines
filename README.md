@@ -12,6 +12,6 @@ to run our react js application follow the following command : mpn start
 
 ### build the application
 
-Builds the app for production to the `build`.It correctly bundles React in production mode and optimizes the build for the best performance. follow the coomand : npm run build. 
+Builds the app for production to the build.It correctly bundles React in production mode and optimizes the build for the best performance. follow the coomand : npm run build. 
 
 
